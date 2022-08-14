@@ -1,0 +1,8 @@
+print(10/2)
+print(10%2)
+print(10%3)
+print(22/3)
+print(22//3)
+print("22"+"33")
+print("22"+"ABC")
+print("ram"*10)

@@ -1,0 +1,16 @@
+list1=[1,2,3,4,5,6,7,8,9,10,11,12,13]
+
+print(list1)
+print(list1[0:5])
+print(list1[0:7])
+print(list1[1:7])
+print(list1[5:7])
+print(list1[6:7])
+print(list1[:7])
+print(list1[5:])
+print(list1[:])
+print(list1[1:9])
+print(list1[1:9:2])
+print(list1[1:9:3])
+print(list1[9:3])
+print(list1[9:3:-1])

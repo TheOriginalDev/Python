@@ -1,0 +1,16 @@
+def add(*a):
+    t=0
+    c=0
+    for x in a:
+        if x%2==0:
+            print(x)
+            t=t+x
+            c=c+1
+    print("Sum = ",t," Count = ",c)
+
+
+add(1,2,3,4,5)
+add(1,2,3,4,5,6,7,8)
+add(1,2,3)
+add(1,2)
+add(1,2,3,4,5,6,7,8,9,10,12)

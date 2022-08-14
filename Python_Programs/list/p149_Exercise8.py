@@ -1,0 +1,5 @@
+numbers=(11,-22,33,-44,55)
+list1=list(numbers)
+list1.reverse()
+numbers=tuple(list1)
+print(numbers)
