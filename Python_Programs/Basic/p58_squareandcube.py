@@ -14,4 +14,4 @@ while True:
     elif op==3:
         break
     else:
-        print("Wrong option, enter 1,2,or 3")
+        print("Wrong option, enter 1, 2, or, 3")
