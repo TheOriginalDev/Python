@@ -7,4 +7,5 @@ while i<=limit:
         even=even+1
     else:
         odd=odd+1
+    i=i+1
 print("The amount of even numbers =>", even,"The amount of odd numbers =>",odd)
