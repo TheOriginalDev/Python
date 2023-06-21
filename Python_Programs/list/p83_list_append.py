@@ -1,4 +1,4 @@
-listData=[11,55,6,77,8,90]
+listData=[11,55,77,8,90]
 
 X=int(input("Enter value1 =>"))
 Y=int(input("Enter value2 =>"))
