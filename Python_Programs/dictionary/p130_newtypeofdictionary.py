@@ -4,7 +4,7 @@ print("*"*30)
 no=1
 for key,value in d1.items():
     if key==z:
-    m1,m2,m3=value
+        m1,m2,m3=value
     total=sum(value)
     if total>18:
         print(key,"\t\t",m1,"\t\t",m2,"\t\t",m3,"\t\t","PASS")
